@@ -1,0 +1,2 @@
+# HizlisindanKargo
+Kargo takip uygulaması

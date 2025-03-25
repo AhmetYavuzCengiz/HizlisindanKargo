@@ -1,9 +1,9 @@
 # HızlısındanKargo
 
 *Proje Tanımı:* 
-Hızlısından Kargo ile kargo takibi artık çok daha kolay! Gönderinizin nerede olduğunu anlık olarak öğrenebilir, teslimat sürecini adım adım takip edebilirsiniz.
-Tüm kargo firmalarıyla entegre çalışan sistemimiz sayesinde, tek bir platform üzerinden hızlı ve güvenilir takip imkanı sunuyoruz.
-Kargonuz yolda mı, dağıtıma çıktı mı, teslim edildi mi? Tüm bu bilgileri saniyeler içinde öğrenmek için Hızlısından Kargo her zaman yanınızda! 
+Hızlısından Kargo, kullanıcıların kargolarını kolayca takip edebileceği, bildirim alabileceği ve destek hizmetlerinden faydalanabileceği bir kargo takip sistemidir.
+Bu proje, kargo şirketleri ile entegrasyon sağlayarak anlık takip, tahmini teslimat süresi ve harita üzerinde konum gösterimi gibi gelişmiş özellikler sunar. 
+Kullanıcıların adres değişikliği taleplerini yönetebileceği, gönderi detaylarını inceleyebileceği ve destek alabileceği kapsamlı bir platform olarak tasarlanmıştır.
 
 *Proje Kategorisi: Kargo Takip Sistemi
 

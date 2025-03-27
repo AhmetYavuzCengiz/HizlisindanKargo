@@ -16,7 +16,7 @@ Kullanıcıların adres değişikliği taleplerini yönetebileceği, gönderi de
 *Proje Ekibi:* Ahmet Yavuz Cengiz
 
 1. [Gereksinim Analizi](Gereksinim-Analizi.md)
-2. [Durum Diyagramı](Durum-Diyagramı.md)
+2. [Durum Diyagramı](DurumDİyagramı.pdf)
 3. [Durum Senaryoları](AhmetYavuzCengiz-DurumSenaryosu.pdf)
 4. [Front-End](Front-End.md)
 5. [Back-End](Back-End.md)
